@@ -1,6 +1,8 @@
 # Hi.
 
-### Im Tom Anderson, and this is my GitHub Profile. Have a look around!
+### 👋 Im Tom Anderson, and this is my GitHub Profile. Have a look around!
+
+***
 
 ## 👨‍🦰 Me
 
@@ -9,7 +11,7 @@
 [![DEV.to](https://img.shields.io/badge/DEV.to-ndsn-black?logo=dev.to&logoColor=white)](https://dev.to/ndsn)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?logo=Buy%20Me%20A%20Coffee&logoColor=white)](https://www.buymeacoffee.com/ndsn)
 
-I'm a Physicist turned Cloud Consultant from the UK! 
+I'm a Physicist ⚛️ turned Cloud Consultant ☁️ from the UK. 🇬🇧
 
 I'm currently leveraging Google Cloud and other cloud technologies for both personal and professional projects, as well as occasionally writing on [Dev.to](https://dev.to/ndsn).
 
