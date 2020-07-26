@@ -24,7 +24,7 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 
 ## 🚧 Projects
 
-* *www.Thomas-Anderson.net* : 
+* ### **www.Thomas-Anderson.net** : 
 The main project I contribute to is the source code for my own site! Check it out [here](https://github.com/Driminary/thomas-anderson.net).\
 ![Website source code hits](https://badges.pufler.dev/visits/Driminary/thomas-anderson.net) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
 [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/thomas-anderson.net.git&shellonly=true)
