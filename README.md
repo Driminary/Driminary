@@ -40,7 +40,7 @@ The main project I contribute to is the source code for my own site! Check it ou
 
 ***
 
-<img align="right" height="250" src="./technologies.svg" alt="Projects SVG">
+<img align="right" height="250" src="./technologies.svg" alt="Technologies SVG">
 
 ## ⚡ Favourite Technologies!
 
