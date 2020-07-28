@@ -4,7 +4,7 @@
 
 ***
 
-<img align="right" height="400" src="./profile.svg" alt="Profile SVG">
+<img align="right" height="400" src="https://raw.githubusercontent.com/Driminary/Driminary/master/profile.svg" alt="Profile SVG">
 
 ## 👨‍🦰 Me
 
@@ -27,7 +27,7 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 
 ***
 
-<img align="left" height="250" src="./projects.svg" alt="Projects SVG">
+<img align="left" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/projects.svg" alt="Projects SVG">
 
 ## 🚧 Projects
 
@@ -40,7 +40,7 @@ The main project I contribute to is the source code for my own site! Check it ou
 
 ***
 
-<img align="right" height="250" src="./technologies.svg" alt="Technologies SVG">
+<img align="right" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/technologies.svg" alt="Technologies SVG">
 
 ## ⚡ Favourite Technologies!
 
@@ -69,7 +69,7 @@ The main project I contribute to is the source code for my own site! Check it ou
 
 ***
 
-<img align="left" height="250" src="./statistics.svg" alt="Statistics SVG">
+<img align="left" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/statistics.svg" alt="Statistics SVG">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=driminary&show_icons=true" alt="My GitHub Stats" />
