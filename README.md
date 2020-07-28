@@ -27,7 +27,7 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 
 ***
 
-<img align="left" height="400" src="./projects.svg" alt="Projects SVG">
+<img align="left" height="250" src="./projects.svg" alt="Projects SVG">
 
 ## 🚧 Projects
 
@@ -39,6 +39,8 @@ The main project I contribute to is the source code for my own site! Check it ou
 <sub><sup>*<a href="https://stories.freepik.com/web">Projects Image Credit: Freepik</a>*</sup></sub>
 
 ***
+
+<img align="right" height="250" src="./technologies.svg" alt="Projects SVG">
 
 ## ⚡ Favourite Technologies!
 
@@ -57,6 +59,8 @@ The main project I contribute to is the source code for my own site! Check it ou
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Shell](https://img.shields.io/badge/-shell-5391FE?logo=PowerShell&logoColor=white)
+
+<sub><sup>*<a href="https://stories.freepik.com/work">Technologies Image Credit: Freepik</a>*</sup></sub>
 
 ***
 
