@@ -64,9 +64,14 @@ The main project I contribute to is the source code for my own site! Check it ou
 
 ***
 
+<img align="left" height="250" src="./statistics.svg" alt="Statistics SVG">
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=driminary&show_icons=true" alt="My GitHub Stats" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Driminary&label=You are visitor" alt="Driminary" />
   <img src="https://img.shields.io/github/last-commit/driminary/driminary?label=profile%20updated&style=flat-square" alt="Profile Updated" />
+  <br>
+  <sub><sup><em><a href="https://stories.freepik.com/data">Statistics Image Credit: Freepik</a></em></sup></sub>
 </p>
+
