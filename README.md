@@ -44,21 +44,26 @@ The main project I contribute to is the source code for my own site! Check it ou
 
 ## ⚡ Favourite Technologies!
 
-![Python](https://img.shields.io/badge/-Python-black?logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+<br>
+![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
+<br>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?logo=google-cloud)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Shell](https://img.shields.io/badge/-shell-5391FE?logo=PowerShell&logoColor=white)
+<br>
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+<br>
 ![Eleventy](https://img.shields.io/badge/-11ty-black?logo=eleventy)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+<br>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Shell](https://img.shields.io/badge/-shell-5391FE?logo=PowerShell&logoColor=white)
 
 <sub><sup>*<a href="https://stories.freepik.com/work">Technologies Image Credit: Freepik</a>*</sup></sub>
 
