@@ -4,6 +4,8 @@
 
 ***
 
+<img align="right" height="400" src="./profile.svg" alt="Profile SVG">
+
 ## 👨‍🦰 Me
 
 [![Website](https://img.shields.io/badge/Website-www.thomas--anderson.net-21374b?style=flat-square&logo=html5&logoColor=white)](https://www.thomas-anderson.net) 
@@ -21,6 +23,11 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 
 [![Physics <3](https://img.shields.io/badge/I%20%E2%99%A5-Physics-brightgreen?style=flat-square&logo=electron&logoColor=white)](https://eps.leeds.ac.uk/physics)
 
+<sub><sup>*<a href="https://stories.freepik.com/people">Profile Image Credit: Freepik</a>*</sup></sub>
+
+***
+
+<img align="left" height="400" src="./projects.svg" alt="Projects SVG">
 
 ## 🚧 Projects
 
@@ -28,6 +35,10 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 The main project I contribute to is the source code for my own site! Check it out [here](https://github.com/Driminary/thomas-anderson.net).\
 ![Website source code hits](https://badges.pufler.dev/visits/Driminary/thomas-anderson.net) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
 [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/thomas-anderson.net.git&shellonly=true)
+
+<sub><sup>*<a href="https://stories.freepik.com/web">Projects Image Credit: Freepik</a>*</sup></sub>
+
+***
 
 ## ⚡ Favourite Technologies!
 
