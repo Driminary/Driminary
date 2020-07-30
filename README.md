@@ -4,7 +4,7 @@
 
 ***
 
-<img align="right" height="400" src="https://raw.githubusercontent.com/Driminary/Driminary/master/profile.svg" alt="Profile SVG">
+<img align="left" height="350" src="https://raw.githubusercontent.com/Driminary/Driminary/master/profile.svg" alt="Profile SVG">
 
 ## 👨‍🦰 Me
 
@@ -27,21 +27,21 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 
 ***
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/projects.svg" alt="Projects SVG">
+<img align="right" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/projects.svg" alt="Projects SVG">
 
 ## 🚧 Projects
 
-* ### **www.Thomas-Anderson.net** : 
-The main project I contribute to is the source code for my own site! Check it out [here](https://github.com/Driminary/thomas-anderson.net).\
-![Website source code hits](https://badges.pufler.dev/visits/Driminary/thomas-anderson.net) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
-[![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/thomas-anderson.net.git&shellonly=true)
+* ### **👨‍💻 www.thomas-anderson.net | [Repo](https://github.com/Driminary/thomas-anderson.net)** : 
+  The main project I contribute to is the source code for my own site! Check it out [here](https://github.com/Driminary/thomas-anderson.net).\
+  ![Website source code hits](https://badges.pufler.dev/visits/Driminary/thomas-anderson.net) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
+  [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/thomas-anderson.net.git&shellonly=true)
 
 <sub><sup>*<a href="https://stories.freepik.com/web">Projects Image Credit: Freepik</a>*</sup></sub>
 
 ***
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/technologies.svg" alt="Technologies SVG">
-
+<img align="left" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/technologies.svg" alt="Technologies SVG">
+  
 ## ⚡ Favourite Technologies!
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -69,14 +69,10 @@ The main project I contribute to is the source code for my own site! Check it ou
 
 ***
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/Driminary/Driminary/master/statistics.svg" alt="Statistics SVG">
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=driminary&show_icons=true" alt="My GitHub Stats" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Driminary&label=You are visitor" alt="Driminary" />
   <img src="https://img.shields.io/github/last-commit/driminary/driminary?label=profile%20updated&style=flat-square" alt="Profile Updated" />
-  <br>
-  <sub><sup><em><a href="https://stories.freepik.com/data">Statistics Image Credit: Freepik</a></em></sup></sub>
 </p>
 
