@@ -35,6 +35,10 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
   The main project I contribute to is the source code for my own site! Check it out [here](https://github.com/Driminary/thomas-anderson.net).\
   ![Website source code hits](https://badges.pufler.dev/visits/Driminary/thomas-anderson.net) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
   [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/thomas-anderson.net.git&shellonly=true)
+* ### **👨‍💻 [devto.ndsn.io](https://devto.ndsn.io) | [Repo](https://github.com/Driminary/devto.ndsn.io)** : 
+  A simple way to add your Dev.to posts into a static website. Uses 11ty and a JavaScript Data File. Check it out [here](https://github.com/Driminary/thomas-anderson.net), and check out the associated post on Dev.to [here](https://dev.to/ndsn/add-dev-to-posts-to-your-static-site-in-20-lines-of-code-409h).\
+  ![Devto.ndsn.io source code hits](https://badges.pufler.dev/visits/Driminary/devto.ndsn.io) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/devto.ndsn.io) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/devto.ndsn.io)\
+  [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/devto.ndsn.io.git&shellonly=true)
 
 <sub><sup>*<a href="https://stories.freepik.com/web">Projects Image Credit: Freepik</a>*</sup></sub>
 
