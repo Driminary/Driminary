@@ -8,7 +8,7 @@
 
 ## 👨‍🦰 Me
 
-[![Website](https://img.shields.io/badge/Website-www.thomas--anderson.net-21374b?style=flat-square&logo=html5&logoColor=white)](https://www.thomas-anderson.net) 
+[![Website](https://img.shields.io/badge/Website-www.thomas--anderson.net-21374b?style=flat-square&logo=html5&logoColor=white)](https://www.thomas-anderson.net/?utm_source=github) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%20Anderson-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th0masanderson/) 
 [![DEV.to](https://img.shields.io/badge/DEV.to-ndsn-black?logo=dev.to&logoColor=white)](https://dev.to/ndsn)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?logo=Buy%20Me%20A%20Coffee&logoColor=white)](https://www.buymeacoffee.com/ndsn)
@@ -31,7 +31,7 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 
 ## 🚧 Projects
 
-* ### **👨‍💻 www.thomas-anderson.net | [Repo](https://github.com/Driminary/thomas-anderson.net)** : 
+* ### **👨‍💻 [www.thomas-anderson.net](https://www.thomas-anderson.net/?utm_source=github | [Repo](https://github.com/Driminary/thomas-anderson.net)** : 
   The main project I contribute to is the source code for my own site! Check it out [here](https://github.com/Driminary/thomas-anderson.net).\
   ![Website source code hits](https://badges.pufler.dev/visits/Driminary/thomas-anderson.net) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
   [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/thomas-anderson.net.git&shellonly=true)
