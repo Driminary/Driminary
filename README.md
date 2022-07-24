@@ -33,11 +33,11 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
 
 * ### **👨‍💻 [www.thomas-anderson.net](https://www.thomas-anderson.net/?utm_source=github) | [Repo](https://github.com/Driminary/thomas-anderson.net)** : 
   The main project I contribute to is the source code for my own site! Check it out [here](https://github.com/Driminary/thomas-anderson.net).\
-  ![Website source code hits](https://badges.pufler.dev/visits/Driminary/thomas-anderson.net) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
+  ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/thomas-anderson.net) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/thomas-anderson.net)\
   [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/thomas-anderson.net.git&shellonly=true)
 * ### **👨‍💻 [devto.ndsn.io](https://devto.ndsn.io) | [Repo](https://github.com/Driminary/devto.ndsn.io)** : 
   A simple way to add your Dev.to posts into a static website. Uses 11ty and a JavaScript Data File. Check it out [here](https://github.com/Driminary/thomas-anderson.net), and check out the associated post on Dev.to [here](https://dev.to/ndsn/add-dev-to-posts-to-your-static-site-in-20-lines-of-code-409h).\
-  ![Devto.ndsn.io source code hits](https://badges.pufler.dev/visits/Driminary/devto.ndsn.io) ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/devto.ndsn.io) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/devto.ndsn.io)\
+  ![Commit Activity](http://img.shields.io/github/commit-activity/m/Driminary/devto.ndsn.io) ![Last Commit](https://img.shields.io/github/last-commit/Driminary/devto.ndsn.io)\
   [![Open in Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-Clone-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/driminary/devto.ndsn.io.git&shellonly=true)
 
 <sub><sup>*<a href="https://stories.freepik.com/web">Projects Image Credit: Freepik</a>*</sup></sub>
@@ -48,24 +48,25 @@ I'm currently leveraging Google Cloud and other cloud technologies for both pers
   
 ## ⚡ Favourite Technologies!
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
 <br>
-![Python](https://img.shields.io/badge/-Python-black?logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
-<br>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?logo=google-cloud)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?logo=google-cloud)
+![Firebase](https://img.shields.io/badge/-Kubernetes-lightblue?logo=kubernetes&logoColor=326CE5)
 ![Shell](https://img.shields.io/badge/-shell-5391FE?logo=PowerShell&logoColor=white)
 <br>
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 <br>
-![Eleventy](https://img.shields.io/badge/-11ty-black?logo=eleventy)
+![Git](https://img.shields.io/badge/-Git-lightgray?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+<br>
+![Eleventy](https://img.shields.io/badge/-11ty-gray?logo=eleventy)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 <br>
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?logo=Node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
